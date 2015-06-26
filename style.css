@@ -1,0 +1,51 @@
+.modal.modalInfo .modal-header
+{
+    background: cornflowerblue;
+}
+
+.modal.modalInfo .modal-title
+{
+    color:white;
+}
+
+
+.modal.modalDanger .modal-header
+{
+    background: #cf1e1e;
+}
+
+.modal.modalDanger .modal-title
+{
+    color:white;
+}
+
+
+.modal.modalSuccess .modal-header
+{
+    background: #5cb057;
+}
+
+.modal.modalSuccess .modal-title
+{
+    color:white;
+}
+
+.modal.modalPrimary .modal-header
+{
+    background: #4874b0;
+}
+
+.modal.modalPrimary .modal-title
+{
+    color:white;
+}
+
+.modal.modalWarning .modal-header
+{
+    background: #dec143;
+}
+
+.modal.modalWarning .modal-title
+{
+    color:white;
+}
